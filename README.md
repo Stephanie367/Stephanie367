@@ -18,11 +18,6 @@ I'm a Computer Science student at Braz Cubas University. I've studied Java, Pyth
 
 </div>
 
-## GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Stephanie367&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F2B5C4&text_color=c9d1d9&icon_color=F2B5C4" alt="GitHub stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanie367&layout=compact&hide_border=true&bg_color=0d1117&title_color=F2B5C4&text_color=c9d1d9" alt="Top languages" height="160" />
-
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F2B5C4?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://www.linkedin.com/in/stephanie-bessa-86a226223)
